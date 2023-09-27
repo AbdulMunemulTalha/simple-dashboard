@@ -115,6 +115,8 @@ main {
 }
 
 .link h2:hover {
+    border-radius: 10px;
+    padding: 10px 30px;
     text-shadow: -1px -1px #484746, -2px -2px #9a9a9a;
     box-shadow: 6px 6px 16px rgb(122 122 122 / 21%);
     color: #65bedf;
